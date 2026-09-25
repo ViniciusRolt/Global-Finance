@@ -68,7 +68,7 @@ Na fase de beta fechado, o app usa **importação manual de extratos (CSV/PDF)**
 
 **Depois do beta:**
 - 🇧🇷 Open Finance via Pluggy ou Belvo
-- 🇬🇧 Open Banking via TrueLayer ou Yapily
+- 🇬🇧 Open Banking via a definir
 
 ## Roadmap
 
