@@ -8,7 +8,7 @@ O Global Finance resolve dois problemas ao mesmo tempo: gestão de contas em mú
 
 Como o app lida com dados financeiros reais, a prioridade é robustez antes de expansão de funcionalidades.
 
-## Stack técnica
+## Stack técnica 
 
 **Backend**
 - NestJS + Prisma ORM + PostgreSQL
